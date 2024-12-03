@@ -1,13 +1,6 @@
 import time
 import os
 
-#       Things to do
-#Find a way to make the calendar look cooler 
-#Publish to Github page
-
-
-#Idiot ProofIt
-
 #Colors that are important for color coding in the calender
 RESET = "\u001b[0m"
 GREEN = "\u001b[32m"
