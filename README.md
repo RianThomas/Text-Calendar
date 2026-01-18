@@ -140,6 +140,6 @@ This project is open for educational and personal use. Feel free to modify and e
 
 ---
 
-**Author:** *Your Name Here*
+**Author:** Rian Thomas
 **Language:** Python
 **Type:** Terminal Application
